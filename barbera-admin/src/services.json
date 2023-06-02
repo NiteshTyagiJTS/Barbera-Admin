@@ -1,0 +1,88 @@
+[
+	{
+		"Service_Name" : "Hair Cut",
+		"Category" : "MEN",
+		"Sub-Category" : "HAIR",
+		"Price" : "200",
+		"Add_Image" : "IMG",
+		"Inventory" : [
+			"HaiCutting Kit",
+			"Hair Color Kit"
+		],
+		"Amount" : [
+			"10",
+			"10"
+		],
+		"Description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	{
+		"Service_Name" : "Hair Colouring",
+		"Category" : "HAIRS",
+		"Sub-Category" : "HAIR",
+		"Price" : "400",
+		"Add_Image" : "IMG",
+		"Inventory" : [
+			"HaiCutting Kit"
+		],
+		"Amount" : [
+			"10"
+		],
+		"Description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	{
+		"Service_Name" : "Beard Styling",
+		"Category" : "MEN",
+		"Sub-Category" : "BEARD",
+		"Price" : "200",
+		"Add_Image" : "IMG",
+		"Inventory" : [
+			"HaiCutting Kit"
+		],
+		"Amount" : [
+			"10"
+		],
+		"Description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	{
+		"Service_Name" : "Hair Styling",
+		"Category" : "WOMEN",
+		"Sub-Category" : "HAIR",
+		"Price" : "350",
+		"Add_Image" : "IMG",
+		"Inventory" : [
+			"HaiCutting Kit"
+		],
+		"Amount" : [
+			"10"
+		],
+		"Description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	{
+		"Service_Name" : "Beauty Spa",
+		"Category" : "WOMEN",
+		"Sub-Category" : "SPA",
+		"Price" : "400",
+		"Add_Image" : "IMG",
+		"Inventory" : [
+			"HaiCutting Kit"
+		],
+		"Amount" : [
+			"10"
+		],
+		"Description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	},
+	{
+		"Service_Name" : "Nails",
+		"Category" : "HAIRS",
+		"Sub-Category" : "NAILS",
+		"Price" : "250",
+		"Add_Image" : "IMG",
+		"Inventory" : [
+			"HaiCutting Kit"
+		],
+		"Amount" : [
+			"10"
+		],
+		"Description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+	}
+]

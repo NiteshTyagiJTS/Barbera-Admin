@@ -30,7 +30,7 @@ function App() {
           <>
             <Navbar onLogout={handleLogout}/>
             {/* <Sidebar /> */}
-            <div className="flex flex-col mt-24 mx-4 bg-lime-300 sm:hidden">
+            <div className="flex flex-col mt-24 mx-4 sm:hidden">
               <Routes>
                 <Route path="/Bookings" element={<Bookings />} />
                 <Route path="/Code_management" element={<Code_management />} />
@@ -40,7 +40,7 @@ function App() {
                 <Route path="/User_management" element={<User_management />} />
               </Routes>
             </div>
-            <div className="absolute right-20 bottom-16 left-80 top-32 bg-lime-300 hidden sm:block">
+            <div className="absolute right-20 bottom-16 left-80 top-32 hidden sm:block">
               <Routes>
                 <Route path="/Bookings" element={<Bookings />} />
                 <Route path="/Code_management" element={<Code_management />} />

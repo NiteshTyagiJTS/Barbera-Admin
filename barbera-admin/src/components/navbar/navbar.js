@@ -12,7 +12,10 @@ function Navbar({ onLogout, userId }) {
     // if (window.innerWidth < 640 && isShown && event.touches[0].clientX > window.innerWidth / 2) {
     //   setIsShown(false);
     // }
-    if (isShown && event.touches[0].clientX > window.innerWidth / 2) {
+    // if (isShown && event.touches[0].clientX > window.innerWidth / 2) {
+    //   setIsShown(false);
+    // }
+    if (isShown && event.touches[0].clientX > window.innerWidth / 3) {
       setIsShown(false);
     }
   };
